@@ -5,8 +5,8 @@ public class Hello {
         int a = 5;
         int = c;
         b = a;
-        c = b+4;
-        c = new Integer(value:5)
+        c = b + 4;
+        c = new Integer(value:5);
 
         if (c == a) System.out.println("c==a");
         if (c.equals(a)) System.out.println("c equals a");
@@ -17,7 +17,7 @@ public class Hello {
         String s2 = null;
 
         String s3 = s1.toUpperCase();
-        System.out.println(s3.charAt(1);
+        System.out.println(s3.charAt(1));
         s1 = "Hello John";
 
         int j = s1.indexOf("rJo");
